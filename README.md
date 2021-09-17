@@ -7,7 +7,7 @@ This information was extracted from the [official Axie Infinity site](https://ma
 
 ## Columns
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Files are given on the dataset folder, where you will find several CSV files with the following structure:
 
 
 | Name  | Description |
