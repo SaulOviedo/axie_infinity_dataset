@@ -2,6 +2,7 @@
 # Axie Infinity Dataset
 
 In this dataset you will find information about axie's transactions and details about the axie itself.
+
 This information was extracted from the [official Axie Infinity site](https://marketplace.axieinfinity.com). 
 
 ## Columns
