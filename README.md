@@ -2,6 +2,7 @@
 # Axie Infinity Dataset
 
 In this dataset you will find information about axie's transactions and details about the axie itself.
+This information was extracted from the [official Axie Infinity site](https://marketplace.axieinfinity.com). 
 
 ## Columns
 
@@ -22,7 +23,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 | hp  | Increases your Axie's hit points. |
 | speed | Determines the turn order, highest speed Axie attacks first. |
 | skill | Adds bonus damage to combo attacks. |
-| Morale  | Increases critical hit chance and last stand turns. |
+| morale  | Increases critical hit chance and last stand turns. |
 | from  | Seller's hash. |
 | to  | Buyer's hash. |
 | timestamp | Transaction's time. |
