@@ -1,4 +1,4 @@
-![Axie Infinity Logo](https://marketplace.axieinfinity.com/static/image/logo.png)
+![Axie Infinity Logo](logo.png)
 # Axie Infinity Dataset
 
 In this dataset you will find information about axie's transactions and details about the axie itself.
