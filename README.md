@@ -12,6 +12,8 @@ Files are given on the dataset folder, where you will find several CSV files wit
 
 | Name  | Description |
 | ------------- | ------------- |
+| txHash  | transaction's hash. |
+| id  | Axie's ID. |
 | image | URL of the axie image. |
 | class | Axie's class.  |
 | chain | Blockchain's name. |
@@ -28,5 +30,4 @@ Files are given on the dataset folder, where you will find several CSV files wit
 | from  | Seller's hash. |
 | to  | Buyer's hash. |
 | timestamp | Transaction's time. |
-| txHash  | transaction's hash. |
 | withPrice | Axie's price in Etherium. |
